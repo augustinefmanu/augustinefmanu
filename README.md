@@ -17,7 +17,9 @@
 <h2>👨‍💻 Cybersecurity Labs:</h2>
 
 - <b>Navigating the Linux Environment </b>
-  - [Part 1](https://github.com/augustinefmanu/LABURL)
+  -  Focus of the Lab: <br />
+  The lab emphasizes navigating the file structure using commands, previewing files from the command line, utilizing command lines to explore additional command options, and combining multiple commands for advanced file searches and bulk operations.
+  - [LAB I](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLab)
 - <b>Linux SysAdmin Fundamentals </b>
   - [Part 1](https://github.com/augustinefmanu/LABURL)
 
