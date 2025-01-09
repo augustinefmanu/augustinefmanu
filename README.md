@@ -4,10 +4,6 @@
 
 - <b>Comptia Security+ </b>
   - [Picture #1](https://github.com/augustinefmanu/LABURL)
-- <b>Comptia CySa+ </b>
-  - [Picture #2](https://github.com/augustinefmanu/LABURL)
-- <b>Comptia Network+ </b>
-  - [Picture #3](https://github.com/augustinefmanu/LABURL)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
