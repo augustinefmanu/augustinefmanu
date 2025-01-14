@@ -22,8 +22,8 @@
   -  Focus of the Lab: <br />
  This lab is focused on building essential system administration skills, focusing on managing users, groups, permissions, and access controls. It also emphasizes secure configuration and networking to ensure system integrity and reliability. 
   - [LAB I](https://github.com/augustinefmanu/LABURL)
-  - [LAB II](https://github.com/augustinefmanu/URL)
-  - [LAB III](https://github.com/augustinefmanu/URL)
+  - [LAB II](https://github.com/augustinefmanu/LinuxSysAdminLabII)
+  - [LAB III](https://github.com/augustinefmanu/LinuxSysAdminLabIII)
 
 <h2>👨‍💻 Codecademy Programming Language Projects:</h2>
 
