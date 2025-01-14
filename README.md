@@ -15,13 +15,13 @@
 - <b>Navigating the Linux Environment </b>
   -  Focus of the Lab: <br />
   The lab emphasizes navigating the file structure using commands, previewing files from the command line, utilizing command lines to explore additional command options, and combining multiple commands for advanced file searches and bulk operations.
-  - [LAB I](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLab)
+  - [LAB I](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLabI)
   - [LAB II](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLabII)
   - [LAB III](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLabIII)
 - <b>Linux SysAdmin Fundamentals </b>
   -  Focus of the Lab: <br />
  This lab is focused on building essential system administration skills, focusing on managing users, groups, permissions, and access controls. It also emphasizes secure configuration and networking to ensure system integrity and reliability. 
-  - [LAB I](https://github.com/augustinefmanu/LABURL)
+  - [LAB I](https://github.com/augustinefmanu/LinuxSysAdminLabI)
   - [LAB II](https://github.com/augustinefmanu/LinuxSysAdminLabII)
   - [LAB III](https://github.com/augustinefmanu/LinuxSysAdminLabIII)
 
