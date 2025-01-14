@@ -19,7 +19,9 @@
   - [LAB II](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLabII)
   - [LAB III](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLabIII)
 - <b>Linux SysAdmin Fundamentals </b>
-  - [Part 1](https://github.com/augustinefmanu/LABURL)
+  -  Focus of the Lab: <br />
+ This lab is focused on building essential system administration skills, focusing on managing users, groups, permissions, and access controls. It also emphasizes secure configuration and networking to ensure system integrity and reliability. 
+  - [LAB I](https://github.com/augustinefmanu/LABURL)
 
 <h2>👨‍💻 Codecademy Programming Language Projects:</h2>
 
