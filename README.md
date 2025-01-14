@@ -17,7 +17,7 @@
   The lab emphasizes navigating the file structure using commands, previewing files from the command line, utilizing command lines to explore additional command options, and combining multiple commands for advanced file searches and bulk operations.
   - [LAB I](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLab)
   - [LAB II](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLabII)
-  - [LAB III](https://github.com/augustinefmanu/URL)
+  - [LAB III](https://github.com/augustinefmanu/NavigatingLinuxEnvironmentLabIII)
 - <b>Linux SysAdmin Fundamentals </b>
   - [Part 1](https://github.com/augustinefmanu/LABURL)
 
